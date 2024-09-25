@@ -12,5 +12,5 @@ let mediaa = function (n1, n2 , n3) {
     return (n1 + n2 + n3) / 2;
  }
  console.log(media(6, 4, 2));
- let numero=prompt ((coloque média))
+ let numero=prompt ((coloque numeros))
  document.write ( 6 )
