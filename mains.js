@@ -8,3 +8,9 @@ function Quadrado(numero1) {
 }
 
 console.log(Quadrado (2) )
+
+let media=function ( ){
+    
+    return;
+}
+console.log ( );
