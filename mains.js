@@ -14,7 +14,7 @@ let media=function (){
     return;
 }
 console.log ( );
-let Quadrado = prompt (soma)
+let Quadrado = prompt (Quadrado)
 
-document.write (Quadrado)
+document.write (soma)
 
