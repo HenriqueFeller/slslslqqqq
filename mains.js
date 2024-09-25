@@ -7,7 +7,7 @@ function Quadrado (num1) {
     return num1*num1
 }
 console.log(Quadrado(2));
-let media = function (n1, n2 + n3) {
+let media = function (n1, n2 , n3) {
 
     return (n1 + n2 + n3) / 2;
  }
