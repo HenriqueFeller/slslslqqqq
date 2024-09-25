@@ -9,8 +9,12 @@ function Quadrado(numero1) {
 
 console.log(Quadrado (2) )
 
-let media=function ( ){
+let media=function (){
     
     return;
 }
 console.log ( );
+let Quadrado = prompt (soma)
+
+document.write (Quadrado)
+
